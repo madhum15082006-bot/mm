@@ -1,9 +1,3 @@
 abc 
-jds
-...
->
-<<<<<<< HEAD
- new doc
-
-new data added
->>>>>>> 7e81a90 (cs-b)
+mycem
+ good afternoon
